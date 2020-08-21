@@ -69,3 +69,14 @@ https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2017/02/krank
 ## Bundesärztekammer: Konsequenz Privatisierung
 
 https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/Privatisierung_Krankenhaeuser_2007.pdf
+
+### Check out
+
+Folium for map pins
+https://python-visualization.github.io/folium/quickstart.html
+
+Scrollama for scrollytelling
+https://github.com/russellgoldenberg/scrollama
+
+JupyterLab for data cleaning
+https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
