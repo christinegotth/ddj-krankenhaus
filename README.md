@@ -76,6 +76,18 @@ Wo sind die Betten pro 1.000 Einwohner besonders stark gesunken?
 99910 – Regionalatlas Deutschland
 https://preview.datengui.de/statistiken?region=DG&data=99910%3AAI1401&labels=id&time=&layout=long
 
+SLNW04 - Schulden der kommunalen Krankenhäuser - 1997 is 2009 (spätere Daten anfragen?)
+71327 – Jährliche Schulden der Gemeinden/Gemeindeverbände
+https://preview.datengui.de/statistiken?region=all&parent=05&level=3&data=71327%3ASLNW04&labels=name&time=&layout=region
+
+GES032 - Personal im Pflegedienst in Krankenhäusern - 1995 bis 2003
+23111 – Grunddaten der Krankenhäuser
+https://preview.datengui.de/statistiken?region=all&parent=05&level=3&data=23111%3AGES032&labels=name&time=&layout=region
+
+GES033 - hauptamtliche Ärzte in Krankenhäusern - 1995 bis 2003
+23111 – Grunddaten der Krankenhäuser
+https://preview.datengui.de/statistiken?region=all&parent=05&level=3&data=23111%3AGES033&labels=name&time=&layout=region
+
 ### Check out
 
 Folium for map pins
