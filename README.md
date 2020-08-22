@@ -71,7 +71,8 @@ https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2017/02/krank
 https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/Privatisierung_Krankenhaeuser_2007.pdf
 
 ## Regionalstatistik
-AI1401 - Krankenhausbettendichte (Betten je 1.000 Einw.) - 1995 bis 2017
+AI1401 - Krankenhausbettendichte (Betten je 1.000 Einw.) - 1995 bis 2017 - für alle 53 Landkreise in NRW: 
+Wo sind die Betten pro 1.000 Einwohner besonders stark gesunken?
 99910 – Regionalatlas Deutschland
 https://preview.datengui.de/statistiken?region=DG&data=99910%3AAI1401&labels=id&time=&layout=long
 
